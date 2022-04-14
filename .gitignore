@@ -114,3 +114,6 @@ Temporary Items
 
 # GitKeep
 !.gitkeep
+
+#IDE
+.idea/
